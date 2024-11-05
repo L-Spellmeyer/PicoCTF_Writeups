@@ -3,6 +3,9 @@ Commands used:
   - 'sha256sum <file>' creates a hash for the  given file or directory using <directory>/*
   - 'grep' used to search through a specified file,folder,directory for a specified key
 
+Note:
+  - checksums and hashes are used to validate the integrity the contents of a file.
+
 Thought Process:
   - Started by using the cat command to look at each of the files to see what I was working with
   - tried to use grep on the files folder using the checksum.txt file as the key
