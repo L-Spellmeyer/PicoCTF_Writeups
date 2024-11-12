@@ -1,4 +1,4 @@
-The author would like readers to recognizes that this document was formatted and edited with the assistance of the AI tool ChatGPT, utilizing information and insights provided by the author.
+The author would like readers to recognize that this document was formatted and edited with the assistance of the generative AI ChatGPT, utilizing information and insights provided by the author.
 
 # picoCTF Challenge: File Integrity Verification
 
